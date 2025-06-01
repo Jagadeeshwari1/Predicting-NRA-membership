@@ -42,6 +42,6 @@ This notebook is a key step in preparing data for predicting NRA membership, and
 
 ## Author
 
-- Jagadeeshwari1
+- Jagadeeshwari
 
 
